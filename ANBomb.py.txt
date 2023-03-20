@@ -94,7 +94,7 @@ else:
         Axak(y+"\n\n\t\t      Invalid User Or Pass")
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
         time.sleep(3)
-        os.system('xdg-open https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100079489954629&mibextid=ZbWKwL')
         os.system("python Ahesan.py")
 #
 
