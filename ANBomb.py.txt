@@ -11,11 +11,13 @@ ban=('''
 \033[1;31m
 
 
-      AA  N   N     BBBB   OOO  M   M BBBB  EEEE RRRR  
-A  A NN  N     B   B O   O MM MM B   B E    R   R 
-AAAA N N N --- BBBB  O   O M M M BBBB  EEE  RRRR  
-A  A N  NN     B   B O   O M   M B   B E    R R   
-A  A N   N     BBBB   OOO  M   M BBBB  EEEE R  RR 
+        #    #     #       ######  ####### #     # ######  ####### ######  
+  # #   ##    #       #     # #     # ##   ## #     # #       #     # 
+ #   #  # #   #       #     # #     # # # # # #     # #       #     # 
+#     # #  #  # ##### ######  #     # #  #  # ######  #####   ######  
+####### #   # #       #     # #     # #     # #     # #       #   #   
+#     # #    ##       #     # #     # #     # #     # #       #    #  
+#     # #     #       ######  ####### #     # ######  ####### #     # 
                                                   
                                                   
                                                     
@@ -302,11 +304,13 @@ os.system("xdg-open https://facebook.com/groups/1247616299128920/")
 
 # Request
 print(f"""\n{ran}\033[1;31m
-        AA  N   N     BBBB   OOO  M   M BBBB  EEEE RRRR  
-A  A NN  N     B   B O   O MM MM B   B E    R   R 
-AAAA N N N --- BBBB  O   O M M M BBBB  EEE  RRRR  
-A  A N  NN     B   B O   O M   M B   B E    R R   
-A  A N   N     BBBB   OOO  M   M BBBB  EEEE R  RR 
+          #    #     #       ######  ####### #     # ######  ####### ######  
+  # #   ##    #       #     # #     # ##   ## #     # #       #     # 
+ #   #  # #   #       #     # #     # # # # # #     # #       #     # 
+#     # #  #  # ##### ######  #     # #  #  # ######  #####   ######  
+####### #   # #       #     # #     # #     # #     # #       #   #   
+#     # #    ##       #     # #     # #     # #     # #       #    #  
+#     # #     #       ######  ####### #     # ######  ####### #     # 
                                                   
                                                   
                                                  
