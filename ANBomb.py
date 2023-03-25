@@ -88,14 +88,14 @@ print(logo2)
 x="XAK"
 user=str(input(f"\n\n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"{w}PASSWORD {r}=>{y} "))
-rp= 'MrAhesan '
+rp= 'MrAhesan'
 x = 'CoxiT'
 if 'MrAhesan'==user and 'CoxiT '==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
 
 else:
         Axak(y+"\n\n\t\t      Invalid User Or Pass")
-        Axak(y+"\n\n\t\tContract Admin For User And Pass")
+        Axak(y+"\n\n\t\tContact Admin For User And Pass")
         time.sleep(3)
         os.system('xdg-open https://www.facebook.com/profile.php?id=100079489954629&mibextid=ZbWKwL')
         os.system("python TBomb.py")
@@ -130,7 +130,7 @@ print(w+"[~] Connecting To The Internet")
 print(f"\n{r}Note : {w}1 Sms Can Sent Up To 18 sms !!")
 try:
  request = requests.get("https://www.google.com/", timeout=2)
- print("\n\033[1;37m[\033[1;32m#\033[1;37m]"+"\033[1;32m Connetcted ")
+ print("\n\033[1;37m[\033[1;32m#\033[1;37m]"+"\033[1;32m Connected ")
 except (requests.ConnectionError, requests.Timeout) as exception:
  print("\n\033[1;37m[\033[1;32m#\033[1;37m] \033[1;31m😢 Your Internet Connection Is Poor !")
 number=input(f"{c}\n[ VICTIM NUMBER ] :{w} +880")
@@ -327,7 +327,7 @@ print(f"""\n{ran}\033[1;31m
 """)
 
 print(f"\n\t      {ran},----------------------------------,")
-print(f"\t{w}      | {r}    Amount ({g}{amo}{r}){w} |   {r}   Time       {w}|")
+print(f"\t{w}      | {r}    Ammount ({g}{amo}{r}){w} |   {r}   Time       {w}|")
 print(f"\t      {ran}'----------------------------------'")
 for i in range(amo):
         resp1 = requests.get(url1)
