@@ -86,11 +86,11 @@ tim2=time.strftime('%I:%M')
 print (ban)
 print(logo2)
 x="XAK"
-user=str(input(f"\n\n{w}USERNAME {r}=>{y} "))
-pas=str(input(f"{w}PASSWORD {r}=>{y} "))
+user=str(input(f"\n\n{w} ENTER USERNAME {r}=>{y} "))
+pas=str(input(f"{w} ENTER PASSWORD {r}=>{y} "))
 rp= 'MrAhesan'
 x = 'CoxiT'
-if 'MrAhesan'==user and 'CoxiT '==pas:
+if rp==user and x==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
 
 else:
@@ -98,7 +98,7 @@ else:
         Axak(y+"\n\n\t\tContact Admin For User And Pass")
         time.sleep(3)
         os.system('xdg-open https://www.facebook.com/profile.php?id=100079489954629&mibextid=ZbWKwL')
-        os.system("python TBomb.py")
+        os.sys.exit()
 #
 
 x="XAK"
