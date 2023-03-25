@@ -376,4 +376,4 @@ else:
         print(c+"\n\n\n\t\t[💣] THANKS FOR USING THIS TOOL [💣]")
         input(g+"\n\t\t\tEnter For Continue")
         os.system("clear")
-        os.system("python T-Bomb.py")
+        os.system("python ANBomb.py")
