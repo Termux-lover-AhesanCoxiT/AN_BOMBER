@@ -24,7 +24,7 @@ ban=('''
                                                      
                                                                    
                                                                    
-            A FOR ME N FOR MY GF                                                       
+                                                                  
                                                                    
                                                                                                                                     
 
@@ -98,7 +98,7 @@ else:
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
         time.sleep(3)
         os.system('xdg-open https://www.facebook.com/profile.php?id=100079489954629&mibextid=ZbWKwL')
-        os.system("python Ahesan.py")
+        os.system("python TBomb.py")
 #
 
 x="XAK"
@@ -134,7 +134,7 @@ try:
 except (requests.ConnectionError, requests.Timeout) as exception:
  print("\n\033[1;37m[\033[1;32m#\033[1;37m] \033[1;31m😢 Your Internet Connection Is Poor !")
 number=input(f"{c}\n[ VICTIM NUMBER ] :{w} +880")
-amo=int(input(c+"\n[ AMOUNT ] : "+w))
+amo=int(input(c+"\n[ AMMOUNT ] : "+w))
 xak(f"\n\n\t\t   {w}<{r}/{w}> {g}BE ETHICAL MATE ;) {w}<{r}/{w}>\n\n")
 input(f"\t\t\t{r}Press Enter....")
 os.system("clear")
@@ -318,7 +318,7 @@ print(f"""\n{ran}\033[1;31m
                                                   
                                           
                                                                    
-               A FOR ME N FOR MY GF                                                    
+                                                                  
                                                                    
                                                                    
                                                                    
