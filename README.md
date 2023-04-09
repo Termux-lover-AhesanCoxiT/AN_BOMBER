@@ -8,7 +8,7 @@
 - pip install requests
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AN_BOMBER
 - cd AN_BOMBER
-- python ANBomb.enc.py
+- python ANBomb.py
 
 # 
 [![IMG-20230320-171820.jpg](https://i.postimg.cc/y8pKYrcZ/IMG-20230320-171820.jpg)](https://postimg.cc/0zSFVntk)
