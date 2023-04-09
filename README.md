@@ -6,6 +6,7 @@
 - pkg install git -y
 - pkg install python -y
 - pip install requests
+- pip install lolcat
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AN_BOMBER
 - cd AN_BOMBER
 - python ANBomb.py
